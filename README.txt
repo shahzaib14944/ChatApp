@@ -1,1 +1,1 @@
-I forgot to add a drawer button at top, just swipe left to open. thanks
+I forgot to add a drawer button at top, just swipe right to open. thanks
