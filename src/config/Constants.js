@@ -1,0 +1,1 @@
+export const GPT_KEY = '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'

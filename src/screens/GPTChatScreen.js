@@ -9,7 +9,7 @@ import { useSelector } from 'react-redux';
 import { isIOS } from '../config/dimensions';
 import Header from '../components/header';
 import { IconSet } from '../components/Icons';
-import { GPT_KEY } from '../helpers/Constants';
+import { GPT_KEY } from '../config/Constants';
 import { GPTBodyExport } from '../helpers/helperFunctions';
 import axios from 'axios';
 
